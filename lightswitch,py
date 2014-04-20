@@ -1,1 +1,17 @@
 # author: alainaisawesome
+switch = False
+prisoners = range(1, 101)
+rounds = range(1, 101)
+
+for r in rounds:
+	for prisoner in prisoners:
+		if prisoner % r == 0:
+			if switch == False:
+				switch = True
+			else:
+				switch = False
+				
+if switch == True:
+	print "light is is on!"
+else:
+	print "light is off!"

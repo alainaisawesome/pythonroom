@@ -1,5 +1,5 @@
 # author: alainaisawesome
-print "alaina"
+print "hi, im Alaina"
 input ("enter a salutation")
 print "hello."
-input "whats ur name?"
+print "whats ur name?"

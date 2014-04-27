@@ -6,7 +6,7 @@ year = 1900
 
 while year < 2015:
 	total = total + 1
-	if month == 12 and date == 31:
+	if month == 12 and days == 31:
 		year = year + 1
 		month = 1
 		day = 1

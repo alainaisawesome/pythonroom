@@ -1,6 +1,15 @@
 import turtle
 turtle = turtle.Turtle()
 numbers = range(1, 5)
-turtle.left(2)
-turtle.forward(3)
-turtle.left(1)
+for number in numbers:
+	turtle.right(90)
+	turtle.forward(70)
+	
+	
+	
+	
+	
+	
+pizzas = range(1, 130)
+for pizza in pizzas
+	

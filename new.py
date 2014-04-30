@@ -5,11 +5,9 @@ for number in numbers:
 	turtle.right(90)
 	turtle.forward(70)
 	
-	
-	
-	
-	
-	
-pizzas = range(1, 130)
-for pizza in pizzas
-	
+
+pizzas = range(1, 150)
+for pizza in pizzas:
+	turtle.right(10)
+	turtle.forward(70)
+	turtle.right(70)

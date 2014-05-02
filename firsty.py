@@ -1,8 +1,4 @@
 # author: alainaisawesome
-print "hi, im Alaina"
-input ("enter a salutation")
-print "hello."
-print "whats ur name?"
-input "write your name"
-answer = input[ "answer" ]
-print "cool, nice to meet you" + answer
+print "hi, im beth! welcome to mining city!"
+print " What will your name be?"
+names = [ "Carly

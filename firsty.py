@@ -4,5 +4,5 @@ input ("enter a salutation")
 print "hello."
 print "whats ur name?"
 input "write your name"
-answer = input
+answer = input[ "answer" ]
 print "cool, nice to meet you" + answer

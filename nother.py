@@ -7,7 +7,20 @@ if word[0] == "who":
 		if word[2] == "you?":
 			print "Cleverbot 1 amazing."
 if word[0] == "where":
-	if word[4] == "from?"
-		print "Botville, Botson"
+	if word[1] == "are":
+		if word[2] == "you":
+			if word[3] == "from?":
+				print "Botville, Botson"
+if word[0] == "tell":
+	if word[1] == "me":
+		if word[2] == "how":
+			if word[3] == "it's":
+				if word[4] == "like":
+					if word[5] == "to":
+						if word[6] == "be":
+							if word[7] == "a":
+								if word[8] == "robot":
+									print "it's awesome!"
+			
 	
 	

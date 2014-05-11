@@ -21,6 +21,10 @@ if word[0] == "tell":
 							if word[7] == "a":
 								if word[8] == "robot":
 									print "it's awesome!"
+if word[0] == "can":
+	if word [1] == "you":
+		if word[2] == "do":
+			if word[3] ==
 			
 	
 	

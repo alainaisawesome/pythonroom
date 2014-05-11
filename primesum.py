@@ -10,5 +10,3 @@ for flower in range(1, 1001):
 	if prime == True:
 		print str(n) + " is prime!"
 		
-	if prime == False:
-		print str(n) + " is not prime!"

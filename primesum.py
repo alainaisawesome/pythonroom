@@ -6,7 +6,7 @@ for t in tests:
 		prime = False 
 
 if prime == True:
-	print str(n) + "is prime!"
+	print str(n) + " is prime!"
 	
 if prime == False:
-	print str(n) + "is not prime!"
+	print str(n) + " is not prime!"

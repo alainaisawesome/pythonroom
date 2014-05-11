@@ -1,0 +1,22 @@
+import turtle
+
+t = turtle.Turtle()
+t.shape("circle")
+n = int(input("How many legs should spidey have?")) 
+angle = 360 / n
+t.stamp()
+t.right(90)
+t.forward(100)
+t.stamp()
+t.left(90)
+t.forward(100)
+t.stamp()
+t.left(180)
+t.forward(200)
+t.stamp()
+t.right(180)
+t.forward(100)
+t.stamp()
+t.right(90)
+t.forward(100)
+t.stamp()

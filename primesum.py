@@ -1,7 +1,9 @@
 n = 504 
-tests = range(2, 503)
+tests = range(1, 503)
+prime = True
 for t in tests:
 	if n % t == 0:
-		print ("This number is not prime")
-	else:
-		print ("this number is prime!")
+		prime = False 
+
+if prime == True:
+	print str(n) + "is prime!"

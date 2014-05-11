@@ -9,5 +9,5 @@ for n in range(1, 1001):
 	
 	if prime == True:
 		print str(n) + " is prime!"
-		total = total + 1
-		
+		total = total + n
+		print total

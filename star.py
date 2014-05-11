@@ -21,3 +21,8 @@ for i in range(22):
 for j in range(22):
 	t2.right(j)
 	t2.forward(8)
+	
+t3 = turtle.Turtle()
+t3.hideturtle()
+t3.setpos(-50, -50)
+t3.write("I love you mom, HAPPY MOTHER'S DAY!")

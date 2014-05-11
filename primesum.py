@@ -1,5 +1,5 @@
-n = 504 
-tests = range(1, 503)
+n = 500
+tests = range(2, n - 1)
 prime = True
 for t in tests:
 	if n % t == 0:

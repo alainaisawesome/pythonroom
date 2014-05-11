@@ -1,6 +1,6 @@
 total = 0
 
-for n in range(1, 1001):
+for n in range(2, 1001):
 	tests = range(2, n - 1)
 	prime = True
 	for t in tests:
@@ -8,6 +8,8 @@ for n in range(1, 1001):
 			prime = False 
 	
 	if prime == True:
-		print str(n) + " is prime!"
 		total = total + n
-		print total
+		
+		
+print total
+		

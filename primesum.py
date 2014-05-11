@@ -1,3 +1,8 @@
+#average distance between prime numbers
+#largest distance between prime numbers 
+#smallest distance between prime numbers
+#how many twin primes
+
 total = 0
 lastPrime = 2
 for n in range(2, 1001):

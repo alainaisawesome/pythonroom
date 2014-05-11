@@ -9,7 +9,7 @@ for n in range(2, 1001):
 	
 	if prime == True:
 		total = total + ( n - lastPrime )
-		print  lastPrime
+		print lastPrime
 		
 print total
 		

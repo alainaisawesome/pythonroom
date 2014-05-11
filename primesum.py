@@ -1,7 +1,6 @@
 n = 500
 
-flowers = range(1, 1001)
-for flower in flowers:
+for flower in range(1, 1001):
 	tests = range(2, flower - 1)
 	prime = True
 	for t in tests:

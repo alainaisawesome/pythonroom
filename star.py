@@ -1,8 +1,10 @@
 import turtle
 t = turtle.Turtle()
 
-flowers = range(1, 6)
+flowers = range(1, 25)
 for flower in flowers:
-	t.forward(100)
-	t.right(144)
+	turtle.right(55)
+	turtle.forward(20)
+	turtle.right(55)
+	turtle.forward(60)
 	

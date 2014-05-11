@@ -8,8 +8,8 @@ for n in range(2, 1001):
 			prime = False 
 	
 	if prime == True:
-		total = total + n
-		
+		total = total + ( n - lastPrime )
+		print  lastPrime
 		
 print total
 		

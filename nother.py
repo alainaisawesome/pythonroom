@@ -24,7 +24,10 @@ if word[0] == "tell":
 if word[0] == "can":
 	if word [1] == "you":
 		if word[2] == "do":
-			if word[3] ==
+			if word[3] == "human":
+				if word[4] == "stuff":
+					print "oh, definitely! I can do tons of stuff!"
+					print "I might show you later :D"
 			
 	
 	

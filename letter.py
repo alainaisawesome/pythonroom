@@ -10,6 +10,6 @@ t.right(180)
 t.forward(50)
 t.right(77)
 t.forward(45)
-t.left
+t.right(50)
 
 		

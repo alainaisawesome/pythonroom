@@ -1,9 +1,9 @@
 import turtle
-t=turtle.Turtle()
-t.color(white)
+t = turtle.Turtle()
+t.color("white")
 t.right(180)
 t.forward(90)
-t.color(black)
-t.left
+t.color("black")
+t.left(75)
 
 		
